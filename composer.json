@@ -2,7 +2,6 @@
     "name": "vulcan/collections",
     "description": "A simple PHP collection implementation",
     "keywords": ["vulcan", "collection", "array"],
-    "type": "library",
     "license": "MIT",
     "authors": [
         {
